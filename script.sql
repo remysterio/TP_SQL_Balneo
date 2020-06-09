@@ -1,0 +1,1 @@
+create view LOGE_TRAV as select logement.loge_no, travail.trav_type,travail.trav_cout,travail.trav_duree from logement,travail;
