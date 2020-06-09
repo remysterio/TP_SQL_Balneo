@@ -9,7 +9,7 @@ Subject, script and Report are on the repository
 ## Technology
 
 - Oracle DB
-- JDBC 
+- SQL Plus
 
 ## Autors
 
